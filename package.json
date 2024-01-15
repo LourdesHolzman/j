@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "p-fix": "prettier --write \"**/*.*\""
+    "p-fix": "prettier --write \"**/*.{js,jsx,json,tsx,ts}\""
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
